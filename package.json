@@ -1,0 +1,23 @@
+{
+  "name": "fj-lunch-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mihran2001/Fj-lunch-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mihran2001/Fj-lunch-bot/issues"
+  },
+  "homepage": "https://github.com/Mihran2001/Fj-lunch-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0"
+  }
+}
